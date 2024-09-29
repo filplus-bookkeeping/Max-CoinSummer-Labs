@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f14qo2qs4btw5nqtbyvijn6pxlewyz2u2cgz363yq",
+  "Issue Number": "12",
+  "Client": {
+    "Name": "Text",
+    "Region": "Afghanistan",
+    "Industry": "Arts & Recreation",
+    "Website": "https://coinsummer.io",
+    "Social Media": "coinsummer",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Test",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Test",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Test",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Daily",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
+    "In which geographies do you plan on making storage deals": "Africa",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "Test",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5TiB",
+    "Single Size Dataset": "5TiB",
+    "Replicas": 4,
+    "Weekly Allocation": "5 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-09-29 02:48:02.732907705 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f14qo2qs4btw5nqtbyvijn6pxlewyz2u2cgz363yq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
