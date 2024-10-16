@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
     "How do you plan to prepare the dataset": "No response",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Test",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Daily",
     "For how long do you plan to keep this dataset stored on Filecoin": "Less than 1 year",
     "In which geographies do you plan on making storage deals": "Greater China",
