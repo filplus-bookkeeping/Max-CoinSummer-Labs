@@ -35,11 +35,11 @@
     "Weekly Allocation": "400 TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-12-29 13:45:12.710595832 UTC",
+    "State": "Granted",
+    "Validated At": "2024-12-29 13:48:06.965930682 UTC",
     "Validated By": "maxvint",
     "Active": true,
-    "Updated At": "2024-12-29 13:45:12.710600416 UTC",
+    "Updated At": "2024-12-29 13:48:06.965926597 UTC",
     "Active Request ID": "408145df-9d8a-4607-904f-3ba9e5e24303",
     "On Chain Address": "f1offau5lwhthzahd5timsc5r4rpyon3xlgo5yarq",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-12-29 13:45:12.710602442 UTC",
       "Updated At": "2024-12-29 13:45:12.710603431 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "80TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "maxvint",
+          "Signing Address": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+          "Created At": "2024-12-29 13:48:03.026000000 UTC",
+          "Message CID": "bafy2bzacebasozcsjscw33y6rho7ksdhhwg4z6dyargqw2nsdqmkyw4kgyqui"
+        }
+      ]
     }
   ]
 }
