@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-12-27 08:46:03.575689599 UTC",
+    "Validated At": "2025-01-12 19:38:37.939291072 UTC",
     "Validated By": "maxvint",
     "Active": true,
-    "Updated At": "2024-12-27 08:46:03.575685774 UTC",
-    "Active Request ID": "984e7289-dd6a-4b26-8153-3b7e99d6ea7a",
+    "Updated At": "2025-01-12 19:38:37.939287478 UTC",
+    "Active Request ID": "9d68053d-6829-48c4-b72e-632fa537294b",
     "On Chain Address": "f1wqu3qgogncmrxypp56s4g3hytzlo5i4nsgsxe7y",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
           "Created At": "2024-12-27 08:46:00.546000000 UTC",
           "Message CID": "bafy2bzacebm6gstunyomyhojqge3unm26p6kqo7n2kdxr4ze5oqkobk4ekasi"
+        }
+      ]
+    },
+    {
+      "ID": "9d68053d-6829-48c4-b72e-632fa537294b",
+      "Request Type": "Refill",
+      "Created At": "2025-01-12 19:34:54.990156334 UTC",
+      "Updated At": "2025-01-12 19:34:54.990157234 UTC",
+      "Active": false,
+      "Allocation Amount": "384TiB",
+      "Signers": [
+        {
+          "Github Username": "maxvint",
+          "Signing Address": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+          "Created At": "2025-01-12 19:38:33.788000000 UTC",
+          "Message CID": "bafy2bzaceb26zbvml2qqannokobiv7xohbqzmqosyc23773gvw7tpxomrzoic"
         }
       ]
     }
