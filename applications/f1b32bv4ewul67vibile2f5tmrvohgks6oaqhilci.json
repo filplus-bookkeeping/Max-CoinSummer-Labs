@@ -17,7 +17,7 @@
     "Describe the data being stored onto Filecoin": "This dataset contains various types of leisure video content, covering entertainment, travel, sports, lifestyle and other fields. The video format is high-definition, compressed and processed for streaming and downloading. The data will be stored in the Filecoin network to ensure its durability, security and easy access to users around the world.",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "The data will be compressed, converted and standardized locally using tools such as FFmpeg to ensure that all videos meet storage and transmission requirements. Use the graphsplit program to create a .car file that complies with the rules,Then use the venus tool for packaging",
-    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://pan.baidu.com/s/1qftM0F6yhixQ1h8oze8whw?pwd=2tgb",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.kaggle.com/datasets/ashaychoudhary/social-media-and-entertainment-dataset/data\nhttps://pan.baidu.com/s/1qftM0F6yhixQ1h8oze8whw?pwd=2tgb",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
     "What is the expected retrieval frequency for this data": "Daily",
     "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
